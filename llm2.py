@@ -1,6 +1,6 @@
 from openai import OpenAI
 
-message = "Hello, GPT! This is my first ever message to you! Hi!"
+message = "Hello, GPT! Can you tell me 10 good things about NAGPUR City in Maharashtra."
 
 messages = [{"role": "user", "content": message}]
 
